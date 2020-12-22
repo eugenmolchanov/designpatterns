@@ -1,4 +1,4 @@
-package com.yauhenmalchanau.education.bridge;
+package com.yauhenmalchanau.education.patterns.structural.bridge;
 
 public abstract class Shape {
 
