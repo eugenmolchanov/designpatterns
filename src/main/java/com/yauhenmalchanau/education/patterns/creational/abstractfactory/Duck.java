@@ -1,4 +1,4 @@
-package com.yauhenmalchanau.education.patterns.creational.factory;
+package com.yauhenmalchanau.education.patterns.creational.abstractfactory;
 
 public class Duck implements Animal {
 

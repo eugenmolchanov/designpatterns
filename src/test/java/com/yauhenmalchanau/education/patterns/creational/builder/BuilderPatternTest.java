@@ -1,4 +1,4 @@
-package com.yauhenmalchanau.education.patterns.creational;
+package com.yauhenmalchanau.education.patterns.creational.builder;
 
 import com.yauhenmalchanau.education.patterns.creational.builder.BankAccount;
 import org.junit.Assert;
